@@ -19,11 +19,6 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-<<<<<<< HEAD
-        print("Conflict")
-=======
-        print("hello")
->>>>>>> feature/xxx-124_new_task
         checkRecordPermission()
         
     }
